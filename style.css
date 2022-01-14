@@ -5,9 +5,20 @@ h2{font-family: 'Poppins', sans-serif;}
     color:orange;
 }
 section{display: flex;}
-.half-width{ width 50%;}
+.half-width{ width: 50%;}
 .half-width img{
     width:80%;
+}
+.mission{
+    display: flex;
+    align-items: center;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.mission img {
+    width: 80%;
+    height: 50%;
+    
 }
 .link-button{
     text-decoration: none;
